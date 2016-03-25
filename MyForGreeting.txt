@@ -1,0 +1,3 @@
+for i = 1 to 10 do begin
+  myGreeting := "Hello, person!"+IntToStr(1);
+end;
